@@ -1,1 +1,1 @@
-# VirtualBank is a program to simulate the banking system. You can enjoy your leisure by simply running the program. 
+This folder holds some codes that were made just for fun
